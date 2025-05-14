@@ -1,4 +1,27 @@
-<h1 align="center">Hi 👋, I'm Shivam Bansal</h1>
+
+   
+   # Hi 👋, I'm Shivam Bansal
+
+A passionate MERN Stack Developer from India
+
+- 🎓 I’m a full stack developer focused on **MERN (MongoDB, Express, React, Node)**
+- 👀 I’m interested in building full-stack web apps and open source contributions
+- 🤝 I’m looking to collaborate on **React/MERN projects**
+- 📫 How to reach me: [sb5757369@gmail.com](mailto:sb5757369@gmail.com)
+
+---
+
+### ⚡ GitHub Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=shivam125295&label=Profile%20views&color=0e75b6&style=flat)
+
+   
+   
+   
+   
+   
+   
+   <h1 align="center">Hi 👋, I'm Shivam Bansal</h1>
 <h3 align="center">🚀 MERN Stack Developer | Passionate about building full-stack web applications</h3>
 
 <p align="center">
